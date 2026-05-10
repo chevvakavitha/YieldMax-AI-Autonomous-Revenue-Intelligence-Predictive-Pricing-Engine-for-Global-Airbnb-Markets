@@ -48,7 +48,16 @@ It analyzes historical booking data, market patterns, and pricing behavior to ge
 ├── README.md
 └── assets/
 ```
+## Technical Stack
 
+- **Data Engineering:** DuckDB and Python for efficient ETL pipelines, structured data preparation, and fast analytical querying.
+- **Machine Learning:** XGBoost Regression for predictive modeling of revenue potential across 25+ business and market features.
+- **Advanced Analysis:** Julius AI for exploratory analysis and uncovering complex, non-linear relationships in rental performance data.
+- **Business Intelligence:** Power BI and Plotly.js for interactive executive dashboards, automated insights, and AI-powered smart narratives.
+```
+
+## AI Dashboard Support
+- **Claude AI**: Used for exploratory analysis, insight generation, dashboard layout ideation, and narrative interpretation of business data.
 ---
 
 ## How It Works
@@ -73,8 +82,11 @@ This project can help:
 
 ## Screenshots
 
-Add project screenshots here to make the repository look more professional.
 <img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/3ff06b44-9a8b-4bf2-8845-54e0915e05be" />
+<img width="1359" height="574" alt="image" src="https://github.com/user-attachments/assets/c8be1027-3655-4d29-89f5-63679e56dd61" />
+<img width="1359" height="537" alt="image" src="https://github.com/user-attachments/assets/c7cc3efd-117a-4d4e-9eb2-769c8be0e7e4" />
+<img width="1360" height="550" alt="image" src="https://github.com/user-attachments/assets/9ba21bb1-a0d9-4754-9345-f8f6c9569cde" />
+<img width="1363" height="536" alt="image" src="https://github.com/user-attachments/assets/9dd4e177-83cb-446f-8aad-501058b167f2" />
 
 ```md
 
