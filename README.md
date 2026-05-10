@@ -55,7 +55,7 @@ It analyzes historical booking data, market patterns, and pricing behavior to ge
 - **Advanced Analysis:** Julius AI for exploratory analysis and uncovering complex, non-linear relationships in rental performance data.
 - **Business Intelligence:** Power BI and Plotly.js for interactive executive dashboards, automated insights, and AI-powered smart narratives.
 ```
-
+```
 ## AI Dashboard Support
 - **Claude AI**: Used for exploratory analysis, insight generation, dashboard layout ideation, and narrative interpretation of business data.
 ---
