@@ -74,6 +74,7 @@ This project can help:
 ## Screenshots
 
 Add project screenshots here to make the repository look more professional.
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/3ff06b44-9a8b-4bf2-8845-54e0915e05be" />
 
 ```md
 
