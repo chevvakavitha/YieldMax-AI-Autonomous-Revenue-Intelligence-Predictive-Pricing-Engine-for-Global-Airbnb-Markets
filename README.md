@@ -24,6 +24,29 @@ It analyzes historical booking data, market patterns, and pricing behavior to ge
 
 ---
 
+### 💰 Business Impact
+**Identified $450,000+ in untapped annual revenue** across 5,000+ listings by automating the detection of "Revenue Leakage" using Machine Learning.
+
+---
+
+### 🛠️ Technical Architecture
+I built a full-stack data pipeline that transforms raw market data into actionable executive strategy.
+
+1. **ETL & Data Engineering:** Used **DuckDB** and Python to clean 50k+ rows of Airbnb data, optimizing for speed and memory.
+2. **Machine Learning:** Trained an **XGBoost Regression** model to predict "Ideal Market Price" based on 25+ location and amenity features.
+3. **Deep Insights:** Leveraged **Julius AI** to find non-linear correlations (e.g., how "Cleaning Fees" impact "Booking Velocity").
+4. **Strategy Dashboarding:** Developed a high-pro **Power BI** executive report and a **Plotly.js** web interface for real-time monitoring.
+
+
+
+---
+
+### 📊 Key Performance Metrics (KPIs)
+* **Model Accuracy:** XGBoost achieved an R² score of 0.88 in price prediction.
+* **The "Yield Gap":** Found that 12% of the market is underpriced by >$40/night.
+* **Root Cause Discovery:** Discovered that slow host response rates (>3 hrs) correlate to a 20% drop in realized revenue.
+
+---
 ## Tech Stack
 
 - Python
