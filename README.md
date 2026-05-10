@@ -1,3 +1,4 @@
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-38bdf8?style=for-the-badge&logo=github&logoColor=white)](https://chevvakavitha.github.io/YieldMax-AI-Autonomous-Revenue-Intelligence-Predictive-Pricing-Engine-for-Global-Airbnb-Markets/)
 # YieldMax AI: Autonomous Revenue Intelligence & Predictive Pricing Engine for Global Airbnb Markets
 
 YieldMax AI is an intelligent revenue optimization system designed to help Airbnb hosts and property managers maximize earnings through predictive pricing, market trend analysis, and data-driven revenue insights.
